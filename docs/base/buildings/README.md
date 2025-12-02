@@ -2,7 +2,7 @@
 
 ## Здания для найма и развития юнитов
 
-![](../images/recruitment.jpg)
+![](./images/recruitment.jpg)
 
 Эти три здания отвечают за найм и развитие юнитов.  
 Подробнее о юнитах → [units.md](./units.md)
@@ -12,8 +12,8 @@
 
 ## Банк
 
-![](../images/bankb.jpg)
-![](../images/bank.jpg)
+![](./images/bankb.jpg)
+![](./images/bank.jpg)
 
 В банке можно забирать пассивный доход.  
 Доход увеличивается с каждым пройденным уровнем.
@@ -22,8 +22,8 @@
 
 ## Таверна
 
-![](../images/tavernb.jpg)
-![](../images/tavern.jpg)
+![](./images/tavernb.jpg)
+![](./images/tavern.jpg)
 
 Улучшив таверну, вы повышаете максимальный размер отряда.
 
@@ -31,10 +31,11 @@
 
 ## Гильдия
 
-![](../images/guildb.jpg)
+![](./images/guildb.jpg)
 
 Из гильдии можно отправиться в битву.  
 Подробнее → ../battle/battle.md
+
 
 
 
