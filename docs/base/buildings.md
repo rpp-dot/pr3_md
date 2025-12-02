@@ -5,7 +5,7 @@
 ![](../images/recruitment.jpg)
 
 Эти три здания отвечают за найм и развитие юнитов.  
-Подробнее о юнитах → [units.md](./units.md)
+Подробнее о юнитах → [units.md](./base/units/README.md)
 
 
 ---
@@ -34,4 +34,4 @@
 ![](../images/guildb.jpg)
 
 Из гильдии можно отправиться в битву.  
-Подробнее → ../battle/battle.md
+[Подробнее о битвах](./battle/battle.md)
