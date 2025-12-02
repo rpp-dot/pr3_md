@@ -21,5 +21,5 @@
 6. Гильдия  
 
 Подробнее:
-- О зданиях → [buildings.md](./buildings/README.md)  
-- О юнитах → [units.md](./units/README.md)
+- [О зданиях](buildings/README.md)  
+- [О юнитах](units/README.md)
